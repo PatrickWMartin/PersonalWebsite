@@ -1,0 +1,38 @@
+.title{
+  text-align: center;
+  align-content: center;
+  margin: 20px auto;
+  border-bottom: 1px solid black;
+}
+
+#content{
+  background-image: url(HFX_Waterfront.jpg);
+  background-repeat: no-repeat;
+  background-color: #373b42;
+  background-size: 100%;
+  height: 635px;
+  padding: 100px 30px;
+  z-index: 2
+}
+#about{
+  width: 100%;
+  background-color: rgba(0,0,0,0.6);
+z-index: 3;
+}
+#about p{
+  height: 50%;
+  padding: 0px 70px;
+  font-size: 20px;
+
+}
+#skills-image{
+  width: 100
+}
+#experience{
+  padding: 150px 30px;
+}
+
+#contact-me{
+  padding: 150px 30px;
+  background: #c5c6c9;
+}
